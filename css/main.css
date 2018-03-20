@@ -1,0 +1,19 @@
+/*This all makes the clock display look nice and neat.*/
+#clockDisplay {
+	background-color: #000;
+	border: #999 2px inset;
+	padding: 6px;
+	color: #0FF;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	display: inline;
+	font-size: 88px;
+}
+
+/*I need to make sure the clock is centered*/
+body {
+	text-align: center;
+	background-color: orange;
+}
